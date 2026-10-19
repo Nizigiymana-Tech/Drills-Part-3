@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/bin/Debug/net10.0/Temp_Converter
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/bin/Debug/net10.0/Temp_Converter.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/bin/Debug/net10.0/Temp_Converter.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/bin/Debug/net10.0/Temp_Converter.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/bin/Debug/net10.0/Temp_Converter.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/obj/Debug/net10.0/Temp_Converter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/obj/Debug/net10.0/Temp_Converter.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/obj/Debug/net10.0/Temp_Converter.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/obj/Debug/net10.0/Temp_Converter.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/obj/Debug/net10.0/Temp_Converter.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/obj/Debug/net10.0/refint/Temp_Converter.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/obj/Debug/net10.0/Temp_Converter.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/obj/Debug/net10.0/Temp_Converter.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Temp_Converter/obj/Debug/net10.0/ref/Temp_Converter.dll

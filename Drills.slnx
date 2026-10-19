@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Countdown_Loop/" />
+  <Folder Name="/Find_The_Maximum_Value/">
+    <Project Path="Find_The_Maximum_Value/Find_the_Maximum_Value.csproj" />
+  </Folder>
+  <Project Path="Countdown_Loop/Countdown_Loop.csproj" />
+  <Project Path="Method_Overloading/Method_Overloading.csproj" />
+  <Project Path="Number_Checker/Number_Checker.csproj" />
+  <Project Path="Password_Validator/Password_Validator.csproj" />
+  <Project Path="Sum_Array/Sum_Array.csproj" />
+  <Project Path="Temp_Converter/Temp_Converter.csproj" />
+  <Project Path="Welcome_Greeting/Welcome_Greeting.csproj" />
+</Solution>

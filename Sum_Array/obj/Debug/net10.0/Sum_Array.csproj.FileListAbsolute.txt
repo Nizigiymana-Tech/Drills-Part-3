@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/bin/Debug/net10.0/Sum_Array
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/bin/Debug/net10.0/Sum_Array.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/bin/Debug/net10.0/Sum_Array.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/bin/Debug/net10.0/Sum_Array.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/bin/Debug/net10.0/Sum_Array.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/obj/Debug/net10.0/Sum_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/obj/Debug/net10.0/Sum_Array.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/obj/Debug/net10.0/Sum_Array.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/obj/Debug/net10.0/Sum_Array.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/obj/Debug/net10.0/Sum_Array.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/obj/Debug/net10.0/refint/Sum_Array.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/obj/Debug/net10.0/Sum_Array.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/obj/Debug/net10.0/Sum_Array.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Sum_Array/obj/Debug/net10.0/ref/Sum_Array.dll

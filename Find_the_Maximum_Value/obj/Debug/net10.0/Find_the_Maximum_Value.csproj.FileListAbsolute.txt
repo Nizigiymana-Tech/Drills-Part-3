@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/bin/Debug/net10.0/Find_the_Maximum_Value
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/bin/Debug/net10.0/Find_the_Maximum_Value.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/bin/Debug/net10.0/Find_the_Maximum_Value.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/bin/Debug/net10.0/Find_the_Maximum_Value.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/bin/Debug/net10.0/Find_the_Maximum_Value.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/obj/Debug/net10.0/Find_the_Maximum_Value.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/obj/Debug/net10.0/Find_the_Maximum_Value.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/obj/Debug/net10.0/Find_the_Maximum_Value.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/obj/Debug/net10.0/Find_the_Maximum_Value.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/obj/Debug/net10.0/Find_the_Maximum_Value.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/obj/Debug/net10.0/refint/Find_the_Maximum_Value.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/obj/Debug/net10.0/Find_the_Maximum_Value.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/obj/Debug/net10.0/Find_the_Maximum_Value.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Find_the_Maximum_Value/obj/Debug/net10.0/ref/Find_the_Maximum_Value.dll

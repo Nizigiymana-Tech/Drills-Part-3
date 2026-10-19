@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/bin/Debug/net10.0/Number_Checker
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/bin/Debug/net10.0/Number_Checker.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/bin/Debug/net10.0/Number_Checker.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/bin/Debug/net10.0/Number_Checker.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/bin/Debug/net10.0/Number_Checker.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/obj/Debug/net10.0/Number_Checker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/obj/Debug/net10.0/Number_Checker.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/obj/Debug/net10.0/Number_Checker.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/obj/Debug/net10.0/Number_Checker.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/obj/Debug/net10.0/Number_Checker.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/obj/Debug/net10.0/refint/Number_Checker.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/obj/Debug/net10.0/Number_Checker.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/obj/Debug/net10.0/Number_Checker.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Number_Checker/obj/Debug/net10.0/ref/Number_Checker.dll

@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/bin/Debug/net10.0/Countdown_Loop
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/bin/Debug/net10.0/Countdown_Loop.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/bin/Debug/net10.0/Countdown_Loop.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/bin/Debug/net10.0/Countdown_Loop.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/bin/Debug/net10.0/Countdown_Loop.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/obj/Debug/net10.0/Countdown_Loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/obj/Debug/net10.0/Countdown_Loop.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/obj/Debug/net10.0/Countdown_Loop.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/obj/Debug/net10.0/Countdown_Loop.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/obj/Debug/net10.0/Countdown_Loop.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/obj/Debug/net10.0/refint/Countdown_Loop.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/obj/Debug/net10.0/Countdown_Loop.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/obj/Debug/net10.0/Countdown_Loop.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Countdown_Loop/obj/Debug/net10.0/ref/Countdown_Loop.dll

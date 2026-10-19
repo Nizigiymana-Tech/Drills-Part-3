@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/bin/Debug/net10.0/Welcome_Greeting
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/bin/Debug/net10.0/Welcome_Greeting.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/bin/Debug/net10.0/Welcome_Greeting.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/bin/Debug/net10.0/Welcome_Greeting.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/bin/Debug/net10.0/Welcome_Greeting.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/obj/Debug/net10.0/Welcome_Greeting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/obj/Debug/net10.0/Welcome_Greeting.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/obj/Debug/net10.0/Welcome_Greeting.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/obj/Debug/net10.0/Welcome_Greeting.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/obj/Debug/net10.0/Welcome_Greeting.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/obj/Debug/net10.0/refint/Welcome_Greeting.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/obj/Debug/net10.0/Welcome_Greeting.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/obj/Debug/net10.0/Welcome_Greeting.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/3/Welcome_Greeting/obj/Debug/net10.0/ref/Welcome_Greeting.dll
